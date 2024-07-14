@@ -1,0 +1,9 @@
+EXAMPLE:
+
+create cover letter for this job description:
+
+Java Developer Position in [Company]
+3+ years of experience in Development
+Spring Framework
+
+Location: Warsaw

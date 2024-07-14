@@ -1,0 +1,22 @@
+EXAMPLE:
+
+About Me:
+"My name Adam Sendler. I am Java developer with over 3 year of experience in development. Without commercial experience, but want to grouth in big company. I m living in Poland."
+
+My skills:
+"Java, Spring, Hibernate, Ai, OpenAI."
+
+can u create cover letter for me based on this cover letter?:
+
+"Dear [Hiring Manager's Name],
+
+I'm excited to apply for the [Position] role at [Company Name]. With [Number] years of experience in software development, I'm confident in my ability to build innovative solutions.
+
+My skills include [List 2-3 key skills, e.g., "Java, Python, JavaScript"], and I've worked on a range of projects using [List 1-2 specific technologies, e.g., "React, Node.js"]. I'm proficient in [List 1-2 specific methodologies, e.g., "Agile, Scrum"].
+
+I'm drawn to [Company Name] because of its [Reason for interest in company, e.g., "commitment to innovation," "focus on customer satisfaction"]. I'm excited about the opportunity to join a team that shares my passion for building high-quality software.
+
+Thank you for considering my application. I'd welcome the opportunity to discuss my qualifications further.
+
+Sincerely,
+Adam Sendler."
